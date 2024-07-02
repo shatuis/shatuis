@@ -1,9 +1,7 @@
-##Jorge Luis Gomez Perez
-
 📧 Email: inggomezjorge1@gmail.com
 🌐 GitHub: Shatuis
 
-Hello! I'm Jorge Luis Gomez Perez, a Mechatronics Engineer with a passion for electronics, software development, and project management. Originally from Venezuela, currently based in Germany.
+Hello! I'm Jorge, a Mechatronics Engineer with a passion for electronics, software development, and project management. Originally from Venezuela, currently based in Germany.
 Skills & Abilities
 
     Languages: C++, C#, Java, PHP, JavaScript
